@@ -1,6 +1,8 @@
 .kitten-image {
     /* add CSS here */
     border: dashed;
-    border-color: salmon
+    border-color: salmon;
+    cursor: pointer;
+    box-shadow: 10px 5px 5px red;
   }
   
