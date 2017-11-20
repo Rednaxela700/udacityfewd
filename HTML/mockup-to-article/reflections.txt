@@ -1,0 +1,23 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1. I’ve learned:
+	a) basic text formating on sites, make it clear and easy to read for the visitors,
+	b) to place html elements in correct order,
+	c) that hyperlink can be more than just a few words referring to another site,
+	d) the parent-child relation of elements in html document (I still have little 		difficulties with setting concrete relation in an article, but it’s much better 	than it was before).
+	e) tree to html lesson was really insightful
+	f) last and probably the most important thing (for me) is that I started to be 		more careful when I try to achieve certian result so… Thanks for mockups, I spent 	really brilliant time doing them!
+
+2. Base html document syntax was very easy for me.
+
+3. The first mockup was quite a challenge due to my bit chaotic nature and zoomed image which was quite hard to set in proper proportions. Luckily I’ve found help with ease on Slack.
+
+4. I used mostly Mozilla Developer Network in time it becomes more easy for me to read the html elements documentation (I’ve never done it before). I’ve discovered also stackoverflow when I tried to position the picture in the first mockup using CSS. I’ve also set up my html notebook where I write down what I’ve learnt and some tips I find useful in the future.
