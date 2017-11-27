@@ -6,6 +6,10 @@ body {
 h3 {
     margin-top: 2px;
     margin-bottom: 2px;
+    margin-left: 2px;
+    text-align: left;
+    letter-spacing: 1px;
+
 }
 img {
     width: 300px;
@@ -40,6 +44,7 @@ img {
 }
 p.fact {
     font-style: italic;
+    margin-left: 4px;
 }
 li {
     margin-left: -40px;
@@ -49,4 +54,8 @@ li {
 span {
     font-weight: bold;
     text-align: left;
+    margin-left: 4px;
+}
+p {
+    margin-left: 4px;
 }
