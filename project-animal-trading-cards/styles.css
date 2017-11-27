@@ -1,34 +1,50 @@
 /* add your CSS here */
 body {
-    width: 300px;
+    width: 350px;
     height: 400px;
 }
+h3 {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
 img {
+    width: 300px;
+    height: 200px;
 }
 .information {
-    padding: 15px;
+    padding: 5px;
     font-family: Arial, Helvetica, sans-serif;
     border: 3px solid #1C1B14;
     background-color: #403E31;
     color: white;
 
 }
+.middle {
+    padding: 5px;
+    vertical-align: middle;
+    border: 10px double rgb(148, 133, 67);
+}
+.description .information .fact {
+    padding: 10px;
+    vertical-align: middle;
+    text-justify: auto;
+
+}
 .description {
-    margin: 0 0 0 0;
     font-family: Arial, Helvetica, sans-serif;
-    border: 3px solid #92885C;
-    background-color: rgb(148, 133, 67);
-    color: white
+    border: 2px solid #92885C;
+    background-color: rgb(121, 108, 55);
+    color: white;
+    width: 300px;
+    box-sizing: content-box;
 }
 p.fact {
     font-style: italic;
 }
-ul {
-    text-align: left;
-}
 li {
+    margin-left: -40px;
     list-style-type: none;
-    text-align: left;
+    align-content: left;
 }
 span {
     font-weight: bold;
