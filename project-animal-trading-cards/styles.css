@@ -1,0 +1,36 @@
+/* add your CSS here */
+body {
+    width: 300px;
+    height: 400px;
+}
+img {
+}
+.information {
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid #1C1B14;
+    background-color: #403E31;
+    color: white;
+
+}
+.description {
+    margin: 0 0 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid #92885C;
+    background-color: rgb(148, 133, 67);
+    color: white
+}
+p.fact {
+    font-style: italic;
+}
+ul {
+    text-align: left;
+}
+li {
+    list-style-type: none;
+    text-align: left;
+}
+span {
+    font-weight: bold;
+    text-align: left;
+}
