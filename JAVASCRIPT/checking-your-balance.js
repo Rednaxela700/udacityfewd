@@ -5,7 +5,7 @@ if (checkBalance === true) {
     if (balance > 0 && isActive === true) {
         console.log("Your balance is $ " + balance.toFixed(2) + ".");
     }
-    else if (account === false) {
+    else if (isActive === false) {
         console.log("Your Account is no longer active");
     }
     else if (balance === 0) {
